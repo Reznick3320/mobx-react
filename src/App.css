@@ -1,0 +1,31 @@
+.counter {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  min-height: 50vh;
+  font-size: 24px;
+}
+
+
+.btns {
+  margin-top: 25px;
+}
+
+.btn {
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 100%;
+  margin: 5px 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.todo {
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+  padding: 5px 10px;
+  border: 1px solid black;
+  margin: 15px;
+}
